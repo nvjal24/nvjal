@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Niño Laureta</h1>
 <h3 align="center">An aspiring Computer Programmer</h3>
-https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExNjk0MGVhNGZjZWFlMGM3Nzg2MGFhMWYzOTkwZDE5NTdiMjUzOGM2OSZjdD1n/qgQUggAC3Pfv687qPC/giphy.gif
+<https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExNjk0MGVhNGZjZWFlMGM3Nzg2MGFhMWYzOTkwZDE5NTdiMjUzOGM2OSZjdD1n/qgQUggAC3Pfv687qPC/giphy.gif>
 
 - 📫 How to reach me **vernino77@gmail.com**
 
